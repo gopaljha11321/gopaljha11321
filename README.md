@@ -13,7 +13,7 @@ I'm a Full Stack Developer with a passion for creating meaningful and efficient 
 
 ## 💼 Experience
 
-- [Current Job/Project] - Brief description of your role and responsibilities.
+- Software Engineer @ UpGrad
 
 ## 🌱 What I'm currently learning
 
