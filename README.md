@@ -17,7 +17,7 @@ I'm a Full Stack Developer with a passion for creating meaningful and efficient 
 
 ## 🌱 What I'm currently learning
 
-I'm currently focused on [Technology/Tool Name], exploring its applications, and working on [Personal Project Name] to apply my knowledge in [Specific Area].
+I'm currently focused on the MERN stack, exploring its applications, and working on live.upgrad.com to apply my knowledge in call scheduling and provide good User experience.
 
 ## 📫 Let's connect
 
