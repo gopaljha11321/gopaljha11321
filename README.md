@@ -21,8 +21,8 @@ I'm currently focused on the MERN stack, exploring its applications, and working
 
 ## 📫 Let's connect
 
-- LinkedIn: https://www.linkedin.com/in/gopal-jha-572397203/
-- Portfolio: https://github.com/gopaljha11321
+- LinkedIn: https://www.linkedin.com/in/gopal-jha-572397203
+- Portfolio: https://gopaljha11321.github.io/profile
 
 Feel free to reach out if you have any questions, want to collaborate, or just chat about tech and coding. I'm always open to connecting with fellow developers!
 
