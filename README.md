@@ -1,6 +1,6 @@
 # Hello, I'm Gopal! 👋
 
-I'm a Full Stack Developer with a passion for creating meaningful and efficient software solutions. My expertise lies in C, C++, Java, and JavaScript. I enjoy working on both frontend and backend technologies, building robust applications, and exploring new technologies to enhance my skills.
+I'm a Full Stack Developer with a passion for creating meaningful and efficient software solutions. My expertise lies in C, C++, Python, Java, and JavaScript. I enjoy working on both frontend and backend technologies, building robust applications, and exploring new technologies to enhance my skills.
 
 # 💻 Tech Stack:
 
