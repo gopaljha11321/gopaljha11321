@@ -9,7 +9,7 @@ I'm a Full Stack Developer with a passion for creating meaningful and efficient 
 
 ## 💼 Experience
 
-- Software Engineer @ UpGrad
+- Software Engineer @ CARS24
 
 ## 🌱 What I'm currently learning
 
